@@ -1,2 +1,8 @@
 # bubble-sort
-Simple sorting algorithm
+Method implementation
+
+Method takes:
+  - a random array of valid integers
+
+Return:
+  - a sorted array (in ascending order)
