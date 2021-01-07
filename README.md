@@ -2,7 +2,7 @@
 Method implementation
 
 Method takes:
-  - a random array of valid integers
+  - relatively short valid array of integers
 
 Return:
   - a sorted array (in ascending order)
