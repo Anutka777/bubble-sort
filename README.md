@@ -1,8 +1,8 @@
 # bubble-sort
-Method implementation
+## Method implementation
 
 Method takes:
-  - relatively short valid array of integers
+  - *relatively short valid array of integers*
 
 Return:
-  - a sorted array (in ascending order)
+  - *a sorted array (in ascending order)*
